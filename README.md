@@ -11,7 +11,7 @@ This repository contains only the files needed for distribution.
 
 ### Panda Tool
 
-- Version: 0.1.0 Preview
+- Version: 0.3.0
 - Blender: 4.2+
 - Type: Add-on
 
@@ -39,9 +39,9 @@ Blender.
 - Blender 4.2.23 LTS
 - Blender 5.1.1
 
-For Panda Tool v0.1.0, repository synchronization, extension discovery,
-installation, enablement, and Create Anchor execution have been verified
-through the published GitHub Pages repository.
+For Panda Tool v0.3.0, repository synchronization, extension discovery,
+installation, and enablement are supported through the published GitHub Pages
+repository. This release adds safe, reviewable cleanup of unused vertex groups.
 
 ## GitHub Pages
 
