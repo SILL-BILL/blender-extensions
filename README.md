@@ -17,31 +17,45 @@ This repository contains only the files needed for distribution.
 
 ## Repository URL
 
-The remote repository URL will be added here after GitHub Pages has been
-enabled and the published `index.json` URL has been verified. Do not use a
-guessed URL as the production repository endpoint.
+```text
+https://sill-bill.github.io/blender-extensions/index.json
+```
+
+Use this URL when adding the SILL-BILL Blender Extensions repository to
+Blender.
 
 ## Installation
-
-After the repository URL has been published:
 
 1. Open Blender.
 2. Go to **Edit > Preferences > Get Extensions**.
 3. Open **Repositories** and choose **Add Remote Repository**.
-4. Enter the published `index.json` URL.
-5. Find **Panda Tool**, install it, and enable the extension if necessary.
+4. Enter `https://sill-bill.github.io/blender-extensions/index.json`.
+5. Sync the repository.
+6. Find **Panda Tool**.
+7. Install the extension and enable it if necessary.
 
-## GitHub Pages setup
+## Tested with
 
-Configure GitHub Pages in the repository settings after the initial commit has
-been pushed:
+- Blender 4.2.23 LTS
+- Blender 5.1.1
 
-- Source: **Deploy from a branch**
-- Branch: **main**
-- Folder: **/docs**
+For Panda Tool v0.1.0, repository synchronization, extension discovery,
+installation, enablement, and Create Anchor execution have been verified
+through the published GitHub Pages repository.
 
-This repository intentionally does not use a GitHub Actions Pages deployment
-workflow at this stage.
+## GitHub Pages
+
+This repository is published through GitHub Pages using **Deploy from a
+branch**:
+
+- Branch: `main`
+- Folder: `/docs`
+
+Repository endpoint:
+
+```text
+https://sill-bill.github.io/blender-extensions/index.json
+```
 
 ## Updating the repository manually
 
@@ -59,4 +73,3 @@ package metadata and archive checksum.
 
 Repository infrastructure is licensed under GPL-3.0-only.
 Individual extensions retain their respective licenses.
-
