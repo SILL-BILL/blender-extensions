@@ -15,6 +15,12 @@ This repository contains only the files needed for distribution.
 - Blender: 4.2+
 - Type: Add-on
 
+### Mixamo Rig Kai
+
+- Version: 0.6.1 Preview
+- Blender: 4.2+
+- Type: Add-on
+
 ## Repository URL
 
 ```text
@@ -31,7 +37,7 @@ Blender.
 3. Open **Repositories** and choose **Add Remote Repository**.
 4. Enter `https://sill-bill.github.io/blender-extensions/index.json`.
 5. Sync the repository.
-6. Find **Panda Tool**.
+6. Find **Panda Tool** or **Mixamo Rig Kai**.
 7. Install the extension and enable it if necessary.
 
 ## Tested with

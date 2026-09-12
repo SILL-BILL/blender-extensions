@@ -4,6 +4,32 @@
   "data": [
     {
       "schema_version": "1.0.0",
+      "id": "mixamo_rig_kai",
+      "name": "Mixamo Rig Kai",
+      "tagline": "Variable spine and neck support for Mixamo rigs",
+      "version": "0.6.1",
+      "type": "add-on",
+      "maintainer": "Gonsaku",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "blender_version_max": "5.5.999",
+      "website": "https://github.com/SILL-BILL/mixamo-rig-kai",
+      "copyright": [
+        "2024 Adobe, Tyler Walker",
+        "2021 Adobe"
+      ],
+      "tags": [
+        "Import-Export",
+        "Rigging"
+      ],
+      "archive_url": "./mixamo_rig_kai-0.6.1.zip",
+      "archive_size": 194655,
+      "archive_hash": "sha256:cac34910efc7818a2ef12512c32a5690ffcc3876777da7bd5e682b1b74768795"
+    },
+    {
+      "schema_version": "1.0.0",
       "id": "panda_tool",
       "name": "Panda Tool",
       "tagline": "Practical utilities for animation and rigging",
