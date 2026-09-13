@@ -7,7 +7,7 @@
       "id": "mixamo_rig_kai",
       "name": "Mixamo Rig Kai",
       "tagline": "Variable spine and neck support for Mixamo rigs",
-      "version": "0.6.1",
+      "version": "0.6.3",
       "type": "add-on",
       "maintainer": "Gonsaku",
       "license": [
@@ -24,9 +24,9 @@
         "Import-Export",
         "Rigging"
       ],
-      "archive_url": "./mixamo_rig_kai-0.6.1.zip",
-      "archive_size": 194655,
-      "archive_hash": "sha256:cac34910efc7818a2ef12512c32a5690ffcc3876777da7bd5e682b1b74768795"
+      "archive_url": "./mixamo_rig_kai-0.6.3.zip",
+      "archive_size": 206239,
+      "archive_hash": "sha256:3a1e7f0c518a3ebb1eae58bf89a42fbab688872f5594423d3510e18a10c4b496"
     },
     {
       "schema_version": "1.0.0",

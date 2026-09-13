@@ -17,7 +17,7 @@ This repository contains only the files needed for distribution.
 
 ### Mixamo Rig Kai
 
-- Version: 0.6.1 Preview
+- Version: 0.6.3 Preview
 - Blender: 4.2+
 - Type: Add-on
 
