@@ -17,7 +17,7 @@ This repository contains only the files needed for distribution.
 
 ### Mixamo Rig Kai
 
-- Version: 0.6.4 Preview
+- Version: 0.6.8 Preview
 - Blender: 4.2+
 - Type: Add-on
 
@@ -48,6 +48,11 @@ Blender.
 For Panda Tool v0.3.0, repository synchronization, extension discovery,
 installation, and enablement are supported through the published GitHub Pages
 repository. This release adds safe, reviewable cleanup of unused vertex groups.
+
+Mixamo Rig Kai v0.6.8 Preview adds the Facial Phase 2 Custom Shape Key
+Controller Generator, including target-based slider creation, automatic
+Internal IDs, `cs_switch` Knobs, viewport labels, per-mesh Mapping, and safe
+Remove / Regenerate persistence.
 
 ## GitHub Pages
 
