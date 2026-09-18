@@ -33,7 +33,7 @@
       "id": "panda_tool",
       "name": "Panda Tool",
       "tagline": "Practical utilities for animation and rigging",
-      "version": "0.3.0",
+      "version": "0.4.0",
       "type": "add-on",
       "maintainer": "Gonsaku",
       "license": [
@@ -41,9 +41,9 @@
       ],
       "blender_version_min": "4.2.0",
       "website": "https://github.com/SILL-BILL/panda-tool-blender",
-      "archive_url": "./panda_tool-0.3.0.zip",
-      "archive_size": 6483,
-      "archive_hash": "sha256:086c952c9c7a0c2f41c500eb1a609f447ab931ccdd67fbb0f6539841f763eb6d"
+      "archive_url": "./panda_tool-0.4.0.zip",
+      "archive_size": 9946,
+      "archive_hash": "sha256:adb8581c3bdcc8f44d4a56c7cc704dc585d5a7590bf9023662a34d7bed127c43"
     }
   ]
 }
