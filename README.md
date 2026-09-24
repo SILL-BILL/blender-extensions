@@ -11,7 +11,7 @@ This repository contains only the files needed for distribution.
 
 ### Panda Tool
 
-- Version: 0.4.0
+- Version: 0.5.0
 - Blender: 4.2+
 - Type: Add-on
 
@@ -45,10 +45,11 @@ Blender.
 - Blender 4.2.23 LTS
 - Blender 5.1.1
 
-For Panda Tool v0.4.0, repository synchronization, extension discovery,
-installation, enablement, and updates from v0.3.0 are supported through the
-published GitHub Pages repository. This release adds safe, reviewable cleanup
-of armature bones that have no matching vertex groups.
+For Panda Tool v0.5.0, repository synchronization, extension discovery,
+installation, enablement, and updates from v0.4.0 are supported through the
+published GitHub Pages repository. This release adds Panda Apply Modifier for
+applying one Modifier while preserving Shape Keys, metadata, relative-key
+relationships, Actions, and Drivers, with strict topology validation.
 
 Mixamo Rig Kai v0.6.8 Preview adds the Facial Phase 2 Custom Shape Key
 Controller Generator, including target-based slider creation, automatic
