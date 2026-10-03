@@ -11,7 +11,7 @@ This repository contains only the files needed for distribution.
 
 ### Panda Tool
 
-- Version: 0.7.0
+- Version: 0.8.0
 - Blender: 4.2+
 - Type: Add-on
 
@@ -45,12 +45,15 @@ Blender.
 - Blender 4.2.23 LTS
 - Blender 5.1.1
 
-Panda Tool v0.7.0 adds Remove Constraints for selected objects in Object Mode
-and selected pose bones in Pose Mode, with automatic mode detection, standard
-Undo, and safe cancellation for linked data and Library Overrides. English
-and Japanese documentation is available in the source repository. Install or
-update through the published GitHub Pages repository; v0.6.0 installations
-are eligible for an update to v0.7.0 after repository synchronization.
+Panda Tool v0.8.0 adds Convert Names to English for known Bone, Shape Key,
+Material and Object names. Its exact-match dictionary supports Japanese,
+Simplified Chinese and known English aliases, with 84 / 52 / 31 / 16 mappings.
+Unknown names are unchanged, conflicts are skipped, and standard Undo is
+supported. Linked Data, Library Overrides and unsafe Bone Driver references
+cancel the operation before modification. Existing tools include Remove
+Constraints and Panda Apply Modifier. English and Japanese documentation is
+available in the source repository. Install or update through GitHub Pages;
+v0.7.0 installations can update to v0.8.0 after repository synchronization.
 
 Mixamo Rig Kai v0.6.8 Preview adds the Facial Phase 2 Custom Shape Key
 Controller Generator, including target-based slider creation, automatic
